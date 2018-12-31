@@ -1,0 +1,17 @@
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2018-12-31T10:32:46.883263853+02:00"
+from:
+  id-type: crev
+  id: 5pwtDeuXDWBNW9QMUsfvoXOVHTjAyK-ScEOjMRcFLEw
+  url: "https://github.com/alexmaco/crev-proofs"
+ids:
+  - id-type: crev
+    id: 8iUv_SPgsAQ4paabLfs1D9tIptMnuSRZ344_M-6m9RE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: "First trust: add dpc (crev author)"
+-----BEGIN CREV TRUST SIGNATURE-----
+EDsTHRf5fj2LCy8O-_urDDhHGpk-XnEQ2qMPhJLE2gH97cmrpmNvupHuvB-86baM8kIrCa2xr6SVOkkrYSz5Cw
+-----END CREV TRUST-----
+
